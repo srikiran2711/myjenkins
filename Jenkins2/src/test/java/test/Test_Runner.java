@@ -1,7 +1,8 @@
 package test;
-
+import org.junit.*;
 public class Test_Runner {
-	public static <args> void main(args[]String)
+	@Test
+	public void Test()
 	{
 	System.out.println("Hello world");
 
