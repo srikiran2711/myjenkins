@@ -5,6 +5,7 @@ public class Test_Runner {
 	public void Test()
 	{
 	System.out.println("Hello");
+	System.out.println("Eurekaaaaaaaaaaaaaaaa......");
 
 }
 }
